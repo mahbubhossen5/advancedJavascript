@@ -7,6 +7,8 @@
 // undefined - falsy
 // [] - TRUTHY
 // {} - TRUTHY
+// false - falsy
+// 'false' - truthy
 
 
 
